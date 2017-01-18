@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* #######################*/
+/* General HTML Tag Rules */
+/* #######################*/
+
+
+
+
+.test {
+ margin-left:0px;
+ 
+ font-size: 20px; 
+ color:#339900;
+ font-family:Arial, Helvetica, sans-serif;
+ font-weight:bold;
+  width: 700px;
+  
+ }
+ .test1 {
+ margin-left:0px;
+ 
+ font-size: 20px; 
+ color:#339900;
+ font-family:Arial, Helvetica, sans-serif;
+ font-weight:bold;
+  width: 700px;
+  text-align:left;
+ }
+ .pass{
+	margin:15px 0px 0px 25px;
+}
+.pass input{
+	padding: 0 0px 0px 10px;
+	width: 327px;
+}
